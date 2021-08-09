@@ -1,36 +1,24 @@
+body
+{
+background-position: center;
+background-size: cover;
+}
 
 .heading
 {
-font-size: 18px;
+font-size: 23px;
 width: 100%;
 margin: 0px;
 }
 
-body
+#status , #number_of_objects
 {
-    background-size: cover;
-    background-position: center;
+font-size: 18px;
 }
-
-#input
-{
-    margin: 30px;
-    color: blue;
-}
-
-button
-{
-    background-color: aqua;
-    border: blue;
-    border-width: 5px;
-    color: blue;
-}
-
-
 
 canvas
 {
-    box-shadow: 10px 10px 10px pink;
-    border-radius: 10px;
-    margin-top: 30px;
+box-shadow: 5px 5px 5px rgb(255, 14, 114);
+border-radius: 10px;
+margin-top: 180px;
 }
